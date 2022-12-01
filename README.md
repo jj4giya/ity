@@ -24,7 +24,7 @@
 ### Steps:
 
 #### 1. Downloading your Instagram data.
-   - Login to your [Instagram] account on Desktop(https://www.instagram.com)
+   - Login to your [Instagram] account on Desktop (https://www.instagram.com)
      or
    - Login to your [Instagram] account on your mobile device and click on "Desktop Site"(https://www.instagram.com)
    <img src="https://i1.lensdump.com/i/RCWsjb.png" alt="RCWsjb.png" border="0" width="500" />
