@@ -1,5 +1,5 @@
 <center>
-    <img src="https://i.lensdump.com/i/R6cZmc.png" alt="R6cZmc.png" border="0" /></a>
+    <img src="https://i.lensdump.com/i/R6cZmc.png" alt="R6cZmc.png" border="0" width="600" /></a>
     <h1 align="center">ITY (ITrustedYou)</h1>
     <h4 align="center">A software for <strong>Instagram</strong> that checks who is not following you back</h4>
     <h5 align="center">Does not require you to give your details to the software</h5>
@@ -43,6 +43,7 @@ You should get a mail within an hour with a link to download your Instagram data
 
 #### 3. Seek revenge.
 - Click on the username to get redirected to their Instagram page to unfollow them.
+- You may also transfer the **ITY.html** file to your mobile phone for ease of access.
   
 ### Uninstall:
 
@@ -52,3 +53,4 @@ You should get a mail within an hour with a link to download your Instagram data
 
 - Please follow all the steps carefully
 - As of now, there is no way to quicken the process (Drawback of not logging in)
+- The HTML is not realtime, to update the list you have to do the whole process again
