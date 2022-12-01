@@ -1,7 +1,7 @@
 <center>
     <h1 align="center">ITY (ITrustedYou)</h1>
     <h4 align="center">A software for <strong>Instagram</strong> that checks who is not following you back</h4>
-    <h5 align="center">This does not require any login credentials</h5>
+    <h5 align="center">Does not require you to give your details to the software</h5>
     <p align="center">
         <strong>Last updated:</strong> 1st December 2022<br>
         <strong>Last tested version:</strong> 0.1
@@ -26,20 +26,17 @@
 #### 1. Downloading your Instagram data.
    - Login to your [Instagram] account on Desktop(https://www.instagram.com)
      or
-   - Login to your [Instagram] account on your mobile device and click on **Desktop Site**(https://www.instagram.com)
+   - Login to your [Instagram] account on your mobile device and click on "Desktop Site"(https://www.instagram.com)
    <img src="https://i1.lensdump.com/i/RCWsjb.png" alt="RCWsjb.png" border="0" width="500" />
-   - Navigate to your profile page and click on the **Settings** button.
+   - Navigate to your profile page and click on the "Settings" button
    <img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
-   - Click on **Privacy and Security**
-   - Scroll down to
-
-
-
+   - Click on "Privacy and Security" and scroll down to "Data Download"
+  
 ### Uninstall:
 
-- Just delete the ITY.exe file.
+- Just delete the ITY.exe file
 
 ### DISCLAIMER
 
-- Please follow all the steps carefully.
-- As of now, there is no way to skip any of the steps to quicken the process. (Drawbacks of not logging in)
+- Please follow all the steps carefully
+- As of now, there is no way to skip any of the steps to quicken the process (Drawback of not logging in)
