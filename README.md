@@ -26,18 +26,20 @@
 #### 1. Downloading your Instagram data.
 - Login to your [Instagram](https://www.instagram.com) on Desktop
 or
-- Login to your [Instagram](https://www.instagram.com) account on your Android and click on "Desktop Site"
+- Login to your [Instagram](https://www.instagram.com) account on your Android and click on **"Desktop Site"**
 - Go to your profile page and click on the **"Settings"** button
 - Click on **"Privacy and Security"** and go to **"Data Download"**
 - Enter your email and Request download in HTML (**IMPORTANT**)
+
 You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step
 
 #### 2. Running the program.
 - First, extract your Instagram data
 - In the **followers_and_following** folder, copy **followers.html** and **following.html** to the same folder where you have downloaded ITY.exe
+- Run ITY.exe
 
 #### 3. Seek revenge.
-- Click on the username to get redirected to their Instagram page and feel free to unfollow them.
+- Click on the username to get redirected to their Instagram page to unfollow them.
   
 ### Uninstall:
 
@@ -46,4 +48,4 @@ You should get a mail within an hour with a link to download your Instagram data
 ### DISCLAIMER
 
 - Please follow all the steps carefully
-- As of now, there is no way to skip any of the steps to quicken the process (Drawback of not logging in)
+- As of now, there is no way to quicken the process (Drawback of not logging in)
