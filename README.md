@@ -22,8 +22,8 @@
    - Login to your [Instagram] account on Desktop. (https://www.instagram.com)
      or
    - Login to your [Instagram] account on your mobile device and click on **Desktop Site**.
-   ![RCWEqi.png](https://i1.lensdump.com/i/RCWEqi.png)
-   - Navigate to your profile
+   <img src="https://i1.lensdump.com/i/RCWsjb.png" alt="RCWsjb.png" border="0" width="200" />
+   - Navigate to your profile page
 
 
 
