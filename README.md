@@ -29,9 +29,7 @@
 or
 
 - Login to your [Instagram](https://www.instagram.com) account on your mobile device and click on "Desktop Site"
-   
 - Navigate to your profile page and click on the "Settings" button
-<img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
 - Click on "Privacy and Security" and scroll down to "Data Download"
   
 ### Uninstall:
