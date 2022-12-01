@@ -8,12 +8,10 @@
     </p> 
 </center>
 
-#### Important checks before installing:
+#### Important checks before clicking on the software:
 
-0. Update Windows, update Spotify and update BlockTheSpot
-1. Go to "Windows Security" -> "Virus & Threat Protection"
-2. Click "Allowed threats" -> "Remove all allowed threats"
-3. Autoinstaller requirements can be found [here].(https://github.com/amd64fox/SpotX#system-requirements)
+0. Check that you're on WiFi since downloading your data might take a lot of Internet.
+1. Reset your password if you don't remember it.
 
 :warning: This software has been tested on Windows only and **not on Mac/ Microsoft Store version/ Android emulator**.
 
@@ -25,10 +23,10 @@
 
 ### Steps:
 
-#### 1. Downloading your data.
-   - Login to your [Instagram] account on Desktop.(https://www.instagram.com)
+#### 1. Downloading your Instagram data.
+   - Login to your [Instagram] account on Desktop(https://www.instagram.com)
      or
-   - Login to your [Instagram] account on your mobile device and click on **Desktop Site**.
+   - Login to your [Instagram] account on your mobile device and click on **Desktop Site**(https://www.instagram.com)
    <img src="https://i1.lensdump.com/i/RCWsjb.png" alt="RCWsjb.png" border="0" width="500" />
    - Navigate to your profile page and click on the **Settings** button.
 
