@@ -24,13 +24,13 @@
 ### Steps:
 
 #### 1. Downloading your Instagram data.
-   - Login to your [Instagram] on Desktop(https://www.instagram.com)
-        or
-   - Login to your [Instagram] account on your mobile device and click on "Desktop Site"(https://www.instagram.com)
+- Login to your [Instagram] on Desktop(https://www.instagram.com)
+or
+- Login to your [Instagram] account on your mobile device and click on "Desktop Site"(https://www.instagram.com)
    
-   - Navigate to your profile page and click on the "Settings" button
-   <img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
-   - Click on "Privacy and Security" and scroll down to "Data Download"
+- Navigate to your profile page and click on the "Settings" button
+<img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
+- Click on "Privacy and Security" and scroll down to "Data Download"
   
 ### Uninstall:
 
