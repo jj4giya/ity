@@ -25,11 +25,9 @@
 
 #### 1. Downloading your Instagram data.
 - Login to your [Instagram](https://www.instagram.com) on Desktop
-
-    or
-
-- Login to your [Instagram](https://www.instagram.com) account on your mobile device and click on "Desktop Site"
-- Navigate to your profile page and click on the "Settings" button
+or
+- Login to your [Instagram](https://www.instagram.com) account on your Android and click on "Desktop Site"
+- Navigate to your profile page and click on the **Settings** button
 - Click on "Privacy and Security" and scroll down to "Data Download"
   
 ### Uninstall:
