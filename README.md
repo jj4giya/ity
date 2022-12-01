@@ -31,7 +31,7 @@ or
 
 - Go to your profile page and click on the **"Settings"** button
 - Click on **"Privacy and Security"** and go to **"Data Download"**
-- **(IMPORTANT)** Enter your email and Request download in HTML 
+- **(IMPORTANT)** Enter any email of yours and Request download in HTML 
 
 You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step
 
