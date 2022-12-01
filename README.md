@@ -8,7 +8,7 @@
     </p> 
 </center>
 
-:warning: This software has been tested on Windows only and **not on Mac or Android emulators**.
+:warning: This software has been tested on Windows only and **not on Mac/ Microsoft Store version/ Android emulator**.
 
 ### Features:
 
@@ -19,7 +19,11 @@
 ### Steps:
 
 #### 1. Downloading your data.
-   - 
+   - Login to your [Instagram] account on Desktop. (https://www.instagram.com)
+     or
+   - Login to your [Instagram] account on your mobile device and click on **Desktop Site**.
+   ![RCWEqi.png](https://i1.lensdump.com/i/RCWEqi.png)
+   - Navigate to your profile
 
 
 
@@ -30,3 +34,4 @@
 ### DISCLAIMER
 
 - Please follow all the steps carefully.
+- As of now, there is no way to skip any of the steps to quicken the process. (Drawbacks of not logging in)
