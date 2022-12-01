@@ -28,9 +28,9 @@
 - Login to your [Instagram](https://www.instagram.com) on Desktop
 or
 - Login to your [Instagram](https://www.instagram.com) account on your Android and click on **"Desktop Site"**
+- Go to your profile page and click on the **"Settings"** button
 <img src="https://i1.lensdump.com/i/RCZZ3q.png" alt="RCZZ3q.png" border="0" />
 
-- Go to your profile page and click on the **"Settings"** button
 - Click on **"Privacy and Security"** and go to **"Data Download"**
 - **(IMPORTANT)** Enter any email of yours and Request download in HTML 
 
