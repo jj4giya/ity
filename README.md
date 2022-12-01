@@ -29,6 +29,9 @@
    - Login to your [Instagram] account on your mobile device and click on **Desktop Site**(https://www.instagram.com)
    <img src="https://i1.lensdump.com/i/RCWsjb.png" alt="RCWsjb.png" border="0" width="500" />
    - Navigate to your profile page and click on the **Settings** button.
+   <img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
+   - Click on **Privacy and Security**
+   - Scroll down to
 
 
 
