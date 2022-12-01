@@ -10,7 +10,7 @@
 
 #### Important checks before clicking on the software:
 
-0. Check that you're on WiFi since downloading your data might take a lot of Internet.
+0. Check that you're on WiFi since downloading your data MIGHT take a lot of Internet.
 1. Reset your password if you don't remember it.
 
 :warning: This software has been tested on Windows only and **not on Mac/ Microsoft Store version/ Android emulator**.
@@ -24,9 +24,11 @@
 ### Steps:
 
 #### 1. Downloading your Instagram data.
-- Login to your [Instagram] on Desktop(https://www.instagram.com)
+- Login to your [Instagram](https://www.instagram.com) on Desktop
+
 or
-- Login to your [Instagram] account on your mobile device and click on "Desktop Site"(https://www.instagram.com)
+
+- Login to your [Instagram](https://www.instagram.com) account on your mobile device and click on "Desktop Site"
    
 - Navigate to your profile page and click on the "Settings" button
 <img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
