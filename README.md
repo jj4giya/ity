@@ -27,6 +27,7 @@
 - Login to your [Instagram](https://www.instagram.com) on Desktop
 or
 - Login to your [Instagram](https://www.instagram.com) account on your Android and click on **"Desktop Site"**
+<img src="https://i3.lensdump.com/i/RCAKHc.png" alt="RCAKHc.png" border="0" />
 - Go to your profile page and click on the **"Settings"** button
 - Click on **"Privacy and Security"** and go to **"Data Download"**
 - Enter your email and Request download in HTML (**IMPORTANT**)
