@@ -1,5 +1,5 @@
 <center>
-    <p align="center"><a target="_blank" href="https://www.instagram.com/jj4giya"><img src="https://i.lensdump.com/i/R6cZmc.png" alt="R6cZmc.png" border="0" width="300"/></a></p>
+    <p align="center"><a target="_blank" href="https://www.instagram.com/jj4giya"><img src="https://i1.lensdump.com/i/RCTRLK.png" alt="RCTRLK.png" border="0" width="300" /></a></p>
     <h1 align="center">ITY (ITrustedYou)</h1>
     <h4 align="center">A software for <strong>Instagram</strong> that checks who is not following you back</h4>
     <h5 align="center">Does not require you to give your details to the software</h5>
