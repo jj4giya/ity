@@ -13,6 +13,7 @@
 
 0. Check that you're on WiFi since downloading your data MIGHT take a lot of Internet
 1. Reset your password if you don't remember it
+2. Follow the steps before clicking on the EXE file
 
 :warning: This software has been tested on Windows only and **not on Mac/ Microsoft Store version/ Android emulator**
 
