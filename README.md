@@ -55,3 +55,8 @@ You should get a mail within an hour with a link to download your Instagram data
 - Please follow all the steps carefully
 - As of now, there is no way to quicken the process (Drawback of not logging in)
 - The HTML is not realtime, to update the list you have to do the whole process again
+
+# [+] Find Me on :
+
+[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/jj4giya)
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCG8YgzTPkf2_fHzCevN5j6w)
