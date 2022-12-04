@@ -39,8 +39,8 @@ You should get a mail within an hour with a link to download your Instagram data
 
 #### 2. Running the program.
 - Open the downloaded ZIP file (your IG data)
-- From the **followers_and_following** folder, extract **followers.html** and **following.html** to the same folder where you have downloaded ITY.exe
-- Run ITY.exe
+- From the **followers_and_following** folder, extract **followers.html** and **following.html** to the same folder where you have downloaded [ITY.exe](https://github.com/jj4giya/ity/raw/main/ITY.exe)
+- Run [ITY.exe](https://github.com/jj4giya/ity/raw/main/ITY.exe)
 
 #### 3. Seek revenge.
 - Click on the username to get redirected to their Instagram page to unfollow them.
