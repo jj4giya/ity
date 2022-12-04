@@ -9,6 +9,9 @@
     </p> 
 </center>
 
+### Download for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
+### Currently working on Mac support
+
 #### Important checks before clicking on the software:
 
 0. Check that you're on WiFi since downloading your data MIGHT take a lot of Internet
@@ -21,7 +24,9 @@
 
 - Gives you a list of users who are not following you back
 - Does not require you to login via the software so it is 100% safe and will not get you banned/ make you change password
+- Open source so it is transparent that I'm not stealing your data 
 - List can be transferred to a mobile device too for unfollowing, whichever feels more efficient
+- Plug and play once you download your Instagram data
 
 ### Steps:
 
@@ -56,9 +61,9 @@ You should get a mail within an hour with a link to download your Instagram data
 - As of now, there is no way to quicken the process (Drawback of not logging in)
 - The HTML is not realtime, to update the list you have to do the whole process again
 
-# [+] Find Me on :
+## [+] Find Me on :
 
-[Twitter](https://twitter.com/jj4giya)
-[Instagram](https://www.instagram.com/jj4giya/)
-[Reddit](https://www.reddit.com/user/jj4giya)
-[Youtube](https://www.youtube.com/channel/UCG8YgzTPkf2_fHzCevN5j6w)
+- [Twitter](https://twitter.com/jj4giya)
+- [Instagram](https://www.instagram.com/jj4giya/)
+- [Reddit](https://www.reddit.com/user/jj4giya)
+- [Youtube](https://www.youtube.com/channel/UCG8YgzTPkf2_fHzCevN5j6w)
