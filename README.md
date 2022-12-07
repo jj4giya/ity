@@ -10,7 +10,7 @@
 </center>
 
 ### Download for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
-### Currently working on Mac support
+### Download for Mac [here](https://github.com/jj4giya/ity/raw/main/ITY.dmg)
 
 #### Important checks before clicking on the software:
 
