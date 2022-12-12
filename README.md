@@ -10,7 +10,7 @@
 </center>
 
 ### Download for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
-### Download for Mac [here](https://github.com/jj4giya/ity/raw/main/ITY.dmg)
+### Download for Mac [here](https://raw.githubusercontent.com/jj4giya/ity/main/ITY.dmg)
 
 #### Important checks before clicking on the software:
 
@@ -43,18 +43,25 @@ or
 You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step
 
 #### 2. Running the program.
+####For Windows
 - Open the downloaded ZIP file (your IG data)
-- From the **followers_and_following** folder, extract **followers.html** and **following.html** to the same folder where you have downloaded ITY.exe / ITY.dmg
-- For Windows, you just need to run the ITY.exe file
-- For Mac, you need to open the ITY.dmg file and run ITY.app inside it
+- From the **followers_and_following** folder, extract **followers.html** and **following.html** to the same folder where you have downloaded ITY.exe
+- Run the ITY.exe file
+
+####For Mac
+- Open the downloaded ZIP file (your IG data)
+- From the **followers_and_following** folder, extract **followers.html** and **following.html** to your Downloads folder
+- Open ITY.dmg
+- Place ITY.app in your Downloads folder and run it.
 
 #### 3. Seek revenge.
 - Click on the username to get redirected to their Instagram page to unfollow them.
 - You may also transfer the **ITY.html** file to your mobile phone for ease of access.
+(For Mac users, the .html file is located in your Downloads/ITY folder)
   
 ### Uninstall:
 
-- Just delete the ITY.exe file and html files if you don't require them anymore
+- Just delete the ITY.exe/ITY.exe file and html files if you don't require them anymore
 
 ### DISCLAIMER
 
