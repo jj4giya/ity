@@ -43,12 +43,12 @@ or
 You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step
 
 #### 2. Running the program.
-####For Windows
+#### For Windows
 - Open the downloaded ZIP file (your IG data)
 - From the **followers_and_following** folder, extract **followers.html** and **following.html** to the same folder where you have downloaded ITY.exe
 - Run the ITY.exe file
 
-####For Mac
+#### For Mac
 - Open the downloaded ZIP file (your IG data)
 - From the **followers_and_following** folder, extract **followers.html** and **following.html** to your Downloads folder
 - Open ITY.dmg
