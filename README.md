@@ -6,6 +6,7 @@
     <p align="center">
         <strong>Last updated:</strong> 13th December 2022<br>
         <strong>Last tested version:</strong> 0.1
+        <strong>*fixed issues with running Windows and Mac versions!</strong>
     </p> 
 </center>
 
@@ -18,7 +19,7 @@
 1. Reset your password if you don't remember it
 2. Follow the steps before clicking on the EXE file
 
-:warning: This software has been tested on Windows only and **not on Microsoft Store version/ Android emulator**
+:warning: This software has been tested on Windows 10 and Mac Monterey and **not on Microsoft Store version/ Android emulator**
 
 ### Features:
 
