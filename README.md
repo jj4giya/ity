@@ -62,7 +62,7 @@ You should get a mail within an hour with a link to download your Instagram data
   
 ### Uninstall:
 
-- Just delete the ITY.exe/ITY.exe file and html files if you don't require them anymore
+- Just delete the ITY.exe/ITY.dmg file and html files if you don't require them anymore
 
 ### DISCLAIMER
 
