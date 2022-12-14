@@ -41,7 +41,10 @@ or
 - Click on **"Privacy and Security"** and go to **"Data Download"**
 - **(IMPORTANT)** Enter any email of yours and Request download in HTML 
 
-You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step
+You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step.
+If you have a lot of data, sometimes Instagram breaks it into parts. My following and followers folder was in part 1 so only download that.
+
+<img src="https://i1.lensdump.com/i/RmRqNT.png" alt="RmRqNT.png" border="0" />
 
 #### 2. Running the program.
 #### For Windows
