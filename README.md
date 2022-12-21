@@ -6,8 +6,8 @@
     <p align="center">
         <strong>Last updated:</strong> 13th December 2022<br>
         <strong>Last tested version:</strong> 0.1
-        <strong>*fixed issues with running Windows and Mac versions!</strong>
-    </p> 
+    </p>
+    <p align="center"> *working on fixing compatability issues with mac </p>
 </center>
 
 ### Download for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
