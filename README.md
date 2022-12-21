@@ -56,7 +56,8 @@ If you have a lot of data, sometimes Instagram breaks it into parts. My followin
 - Open the downloaded ZIP file (your IG data)
 - From the **followers_and_following** folder, extract **followers.html** and **following.html** to your Downloads folder
 - Open ITY.dmg
-- Place ITY.app in your Downloads folder and run it.
+- Place ITY.app in your Downloads folder.
+- Right click and **Open** ITY.app
 
 #### 3. Seek revenge.
 - Click on the username to get redirected to their Instagram page to unfollow them.
