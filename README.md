@@ -7,7 +7,7 @@
         <strong>Last updated:</strong> 13th December 2022<br>
         <strong>Last tested version:</strong> 0.1
     </p>
-    <p align="center"> ??? working on an android APK </p>
+    <p align="center"> ??? macOS Ventura broke my program with their security updates. fixing it. still works on monterey and big sur! </p>
 </center>
 
 ### Download for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
