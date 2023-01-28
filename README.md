@@ -1,17 +1,18 @@
 <center>
     <p align="center"><a target="_blank" href="https://www.instagram.com/jj4giya"><img src="https://i1.lensdump.com/i/RCTRLK.png" alt="RCTRLK.png" border="0" width="300" /></a></p>
     <h1 align="center">ITY (ITrustedYou)</h1>
-    <h4 align="center">A software for <strong>Instagram</strong> that checks who is not following you back</h4>
-    <h5 align="center">Does not require you to give your details to the software</h5>
+    <h4 align="center">A software that helps you find out who is not following you back on Instagram.<br>No bullshit such as having to give your credentials for logging to your Instagram account.</br></h4>
+    im still editing this
     <p align="center">
-        <strong>Last updated:</strong> 13th December 2022<br>
-        <strong>Last tested version:</strong> 0.1
-    </p>
-    <p align="center"> ??? macOS Ventura broke my program with their security updates. fixing it. still works on monterey and big sur! </p>
+        <strong>Last updated:</strong> 28th January 2023<br>
+        <strong>Last tested version:</strong> 1.0
+    </p> 
+    <p align="center"><b> BIG UPDATE! Added a User Friendly Interface, with an option to select where you wish to save the unfollowers list. </b></p>
 </center>
 
-### Download for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
-### Download for Mac [here](https://raw.githubusercontent.com/jj4giya/ity/main/ITY.dmg)
+### Download v1.0 for Windows [here](https://github.com/jj4giya/ity/raw/main/ITY.exe)
+### Download v1.0 for Mac [here](https://raw.githubusercontent.com/jj4giya/ity/main/ITY.dmg)
+<h3 align="center">PLEASE READ THE STEPS BELOW ATLEAST</h2>
 
 #### Important checks before clicking on the software:
 
@@ -77,5 +78,5 @@ If you have a lot of data, sometimes Instagram breaks it into parts. My followin
 ## CREDITS 
 
 <p>Special thanks to <strong>@eli.kerr</strong>(on Instagram) and <strong>Smiley! d(^▽^)b |☼≡|
-#9185</strong>(discord tag) for helping with the documentation on Mac. :)</p>
-<p>To all the people who left me feedback on Reddit and Twitter, keep staying awesome!</p>
+#9185</strong>(discord tag) for helping me with the Mac documentation. :)</p>
+<p>To all the people who left their feedback on Reddit and Twitter, keep staying awesome!</p>
