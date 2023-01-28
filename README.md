@@ -32,9 +32,7 @@
 ### Steps:
 
 #### 1. Downloading your Instagram data.
-- Login to your [Instagram](https://www.instagram.com) on Desktop
-or
-- Login to your [Instagram](https://www.instagram.com) account on your Android and click on **"Desktop Site"**
+- Login to your [Instagram](https://www.instagram.com) account on any browser.
 - Go to your profile page and click on the **"Settings"** button
 <img src="https://i1.lensdump.com/i/RCZZ3q.png" alt="RCZZ3q.png" border="0" />
 
@@ -47,22 +45,15 @@ If you have a lot of data, sometimes Instagram breaks it into parts. My followin
 <img src="https://i1.lensdump.com/i/RmRqNT.png" alt="RmRqNT.png" border="0" />
 
 #### 2. Running the program.
-#### For Windows
 - Open the downloaded ZIP file (your IG data)
-- From the **followers_and_following** folder, extract **followers.html** and **following.html** to the same folder where you have downloaded ITY.exe
-- Run the ITY.exe file
+- From the **followers_and_following** folder, extract **followers.html** and **following.html**
+- Run the ITY.exe file. 
 
-#### For Mac
-- Open the downloaded ZIP file (your IG data)
-- From the **followers_and_following** folder, extract **followers.html** and **following.html** to your Downloads folder
-- Open ITY.dmg
-- Place ITY.app in your Downloads folder.
-- Right click and **Open** ITY.app
-
-#### 3. Seek revenge.
+#### 3. Pay them back.
 - Click on the username to get redirected to their Instagram page to unfollow them.
-- You may also transfer the **ITY.html** file to your mobile phone for ease of access.
-(For Mac users, the .html file is located in your Downloads/ITY folder)
+- You can also transfer the **ITY.html** file to your mobile phone for ease of access.
+:warning: Please do note that Instagram will lock your account if you unfollow too many people at once. (Thanks Zucc)
+<p> There is an approximate limit of unfollowing 150-200 people per day 
   
 ### Uninstall:
 
@@ -72,11 +63,19 @@ If you have a lot of data, sometimes Instagram breaks it into parts. My followin
 
 - Please follow all the steps carefully
 - As of now, there is no way to quicken the process (Drawback of not logging in)
-- The HTML is not realtime, to update the list you have to do the whole process again
+- The HTML is not realtime, to update the list you need to download your data from Instagram again.
+- I do not own a Mac so I had to make the Mac version on a Virtual Machine. If there is a bug, I will do my best to fix it ASAP.
 
-## [+] Find Me on :
+## [+] FInd me on :
 
-- [Twitter](https://twitter.com/jj4giya)
+- [Discord](https://discord.gg/tEujaUG2xM)
 - [Instagram](https://www.instagram.com/jj4giya/)
 - [Reddit](https://www.reddit.com/user/jj4giya)
+- [Twitter](https://twitter.com/jj4giya)
 - [Youtube](https://www.youtube.com/channel/UCG8YgzTPkf2_fHzCevN5j6w)
+
+## CREDITS 
+
+<p>Special thanks to <strong>@eli.kerr</strong>(on Instagram) and <strong>Smiley! d(^▽^)b |☼≡|
+#9185</strong>(discord tag) for helping with the documentation on Mac. :)</p>
+<p>To all the people who left me feedback on Reddit and Twitter, keep staying awesome!</p>
