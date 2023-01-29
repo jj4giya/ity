@@ -74,7 +74,7 @@ For Windows, just run ITY.exe
 
 ## [+] FInd me on :
 
-- [Discord](https://discord.gg/ZrWC2gp9y3)
+- [Discord] (making my server rn)
 - [Instagram](https://www.instagram.com/jj4giya/)
 - [Reddit](https://www.reddit.com/user/jj4giya)
 - [Twitter](https://twitter.com/jj4giya)
