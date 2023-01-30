@@ -7,13 +7,14 @@
         <strong>Last tested version:</strong> 1.0
     </p> 
     <p align="center"><b> BIG UPDATE! Added a User Friendly Interface, with an option to select where you wish to save the unfollowers list. </b></p>
-    <p align="center">Changed file host to Google Drive since GitHub does not allow uploads above 25mb</p>
+    <p align="center">Changed file host to MEGA since GitHub and GDrive are giving me problems with sharing</p>
     <p align="center">If you have any issue, please do not hesitate to text me. (Check all the way down at the bottom)</p>
 
 <h3 align="center">PLEASE HAVE A QUICK READ THROUGH THE STEPS!!</h2>
 
-### Download v1.0 for Windows [here](https://drive.google.com/drive/folders/1igWDfPvER_y0x9mTKVdKpSgDQXZ0Hl6p?usp=share_link)
-### Download v1.0 for Mac [here](https://drive.google.com/file/d/1YQ0mQcjL3_ftGXs943edUsQjrLo1q2uC/view?usp=share_link)
+### Download v1.0 for Windows [here](https://mega.nz/file/52QQQIoY#HK4_BPtx_0qnFQM3ri6QKglzIcusnAvM8F27NvL7jdo)
+### Download v1.0 for Mac [here](https://mega.nz/file/17gVCCKK#QApRSiCNJPn5jegORgdvIMj0i5rDPrrjWRX7ZTLBWGQ)
+<p> PLEASE TELL ME IF LINKS ARE DOWN </p>
 
 </center>
 
