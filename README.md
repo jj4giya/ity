@@ -8,10 +8,10 @@
     </p> 
     <p align="center"><b> BIG UPDATE! Added a User Friendly Interface, with an option to select where you wish to save the unfollowers list. </b></p>
     <p align="center">Changed file host to MEGA since GitHub and GDrive are giving me problems with sharing</p>
-    <p align="center">If you have any issue, please do not hesitate to text me. (Check all the way down at the bottom)</p>
 
 <h3 align="center">PLEASE HAVE A QUICK READ THROUGH THE STEPS!!</h2>
 
+## Please do not hesitate to text me if you have any issue!! [Click here](https://www.linktr.ee/jj4giya)
 ### Download v1.0 for Windows [here](https://mega.nz/file/52QQQIoY#HK4_BPtx_0qnFQM3ri6QKglzIcusnAvM8F27NvL7jdo)
 ### Download v1.0 for Mac [here](https://mega.nz/file/17gVCCKK#QApRSiCNJPn5jegORgdvIMj0i5rDPrrjWRX7ZTLBWGQ)
 <p> PLEASE TELL ME IF LINKS ARE DOWN </p>
@@ -68,18 +68,11 @@ For Windows, just run ITY.exe
 
 ### DISCLAIMER
 
+- Only download from the link on my GitHub or Discord. I am not responsible if you download it from elsewhere.
 - Please follow all the steps carefully, but I am always there to help!
 - As of now, there is no way to quicken the process (Drawback of not logging in)
 - The HTML is not realtime, to update the list you need to download your data from Instagram again.
 - I do not own a Mac so I had to make the Mac version on a Virtual Machine. If there is a bug, I will do my best to fix it ASAP.
-
-## [+] FInd me on :
-
-- [Discord] (making my server rn)
-- [Instagram](https://www.instagram.com/jj4giya/)
-- [Reddit](https://www.reddit.com/user/jj4giya)
-- [Twitter](https://twitter.com/jj4giya)
-- [Youtube](https://www.youtube.com/channel/UCG8YgzTPkf2_fHzCevN5j6w)
 
 ## CREDITS 
 
