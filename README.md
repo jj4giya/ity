@@ -14,7 +14,9 @@
 ## Please do not hesitate to text me if you have any issue!! [Click here](https://www.linktr.ee/jj4giya)
 ### Download v1.0 for Windows [here](https://mega.nz/file/52QQQIoY#HK4_BPtx_0qnFQM3ri6QKglzIcusnAvM8F27NvL7jdo)
 ### Download v1.0 for Mac [here](https://mega.nz/file/17gVCCKK#QApRSiCNJPn5jegORgdvIMj0i5rDPrrjWRX7ZTLBWGQ)
-<p> PLEASE TELL ME IF LINKS ARE DOWN </p>
+
+### Join my Discord server from [here], shifting to discord bot probably(https://www.linktr.ee/jj4giy)
+<p> If I'm successful, you won't have to download my program anymore :D </p>
 
 </center>
 
