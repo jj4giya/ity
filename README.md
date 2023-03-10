@@ -3,16 +3,15 @@
     <p><a href="https://www.instagram.com/jj4giya"><img src="https://i1.lensdump.com/i/T8OSpM.png" border="0" width="1200" /></a</p>
     <h3 align="center">A software that helps you find out who is not following you back on Instagram.<br>No bullshit such as having into give your credentials for logging to your Instagram account.</br></h3>
     <p align="center">
-        <strong>Last updated:</strong> 29th January 2023<br>
-        <strong>Last tested version:</strong> 1.0
+        <strong>Last updated:</strong> 10th March 2023<br>
+        <strong>Last tested version:</strong> 1.1a
     </p> 
-    <p align="center"><b> BIG UPDATE! Added a User Friendly Interface, with an option to select where you wish to save the unfollowers list. </b></p>
-    <p align="center">Changed file host to MEGA since GitHub and GDrive are giving me problems with sharing</p>
+    <p align="center">❤ changed encoding to utf-8 due to file opening issues</p>
 
 <h3 align="center">PLEASE HAVE A QUICK READ THROUGH THE STEPS!!</h2>
 
 ## Please do not hesitate to text me if you have any issue!! [Click here](https://www.linktr.ee/jj4giya)
-### Download v1.0 for Windows [here](https://mega.nz/file/52QQQIoY#HK4_BPtx_0qnFQM3ri6QKglzIcusnAvM8F27NvL7jdo)
+### Download v1.1a for Windows [here](https://mega.nz/file/1uYFQCgQ#D5GLD2XnsKoVp8qbd0b6tM0yqZ3giLCiJDr1eAXn-sA)
 ### Download v1.0 for Mac [here](https://mega.nz/file/17gVCCKK#QApRSiCNJPn5jegORgdvIMj0i5rDPrrjWRX7ZTLBWGQ)
 
 ### Join my Discord server from [here](https://www.linktr.ee/jj4giya), shifting to discord bot probably
