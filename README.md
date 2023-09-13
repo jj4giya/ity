@@ -1,7 +1,6 @@
-
 <center>
-    <p><a href="https://www.instagram.com/jj4giya"><img src="https://i1.lensdump.com/i/T8OSpM.png" border="0" width="1200" /></a</p>
-    <h3 align="center">A software that helps you find out who is not following you back on Instagram.<br>No bullshit such as having into give your credentials for logging to your Instagram account.</br></h3>
+    <p align="center"><a href="https://www.instagram.com/jj4giya"><img src="https://b.l3n.co/i/RCTRLK.png" border="0" width="250" /></a</p>
+    <h3 align="center">A software that helps you find out who is not following you back on Instagram.<br>NO LOGIN BULLSHIT NEEDED!!</br></h3>
     <p align="center">
         <strong>Last updated:</strong> 10th March 2023<br>
         <strong>Last tested version:</strong> 1.1a
