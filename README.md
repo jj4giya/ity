@@ -8,20 +8,16 @@
     <p align="center">❤ updated the README instructions for 2024</p>
 </center>
 
+### Need Help? 
+Click [here!](https://www.linktr.ee/jj4giya) to contact me :) Always happy to help
+
 # Table of Contents
 
 1. [Downloads](#downloads)
-3. [Important Checks](#important-checks)
-4. [Features](#features)
-5. [Steps](#steps)
-    1. [Downloading Your Instagram Data](#downloading-your-instagram-data)
-    2. [Running the Program](#running-the-program)
-    3. [Pay Them Back](#pay-them-back)
-6. [Uninstall](#uninstall)
-7. [Disclaimer](#disclaimer)
-8. [Credits](#credits)
+2. [Prerequisites](#prerequisites)
+3. [Steps to Install your IG data!](#steps)
 
-# Downloads
+## Downloads
 
 ### Windows
 [Download v1.1a for Windows](https://mega.nz/file/1uYFQCgQ#D5GLD2XnsKoVp8qbd0b6tM0yqZ3giLCiJDr1eAXn-sA)
@@ -29,14 +25,12 @@
 ### Mac
 [Download v1.0 for Mac](https://mega.nz/file/17gVCCKK#QApRSiCNJPn5jegORgdvIMj0i5rDPrrjWRX7ZTLBWGQ)
 
-### Discord
-Join my Discord server from [here](https://www.linktr.ee/jj4giya), shifting to discord bot probably. If I'm successful, you won't have to download my program anymore :D
 
-## Important Checks
+## Prerequisites
 
 - Check that you're on WiFi since downloading your data MIGHT take a lot of Internet
-- Reset your password if you don't remember it
-- Follow the steps before running the software
+- Reset your password if you don't remember it, you need it while downloading your data
+- PLEASE download your IG data first before running the software
 
 :warning: This software has been tested on Windows 10 and Mac Ventura ONLY
 
@@ -52,13 +46,38 @@ Join my Discord server from [here](https://www.linktr.ee/jj4giya), shifting to d
 ### Downloading Your Instagram Data
 
 1. Login to your [Instagram](https://www.instagram.com) account on any browser.
-2. Go to your profile page and click on the **"Settings"** button
-3. Click on **"Privacy and Security"** and go to **"Data Download"**
-4. **(IMPORTANT)** Enter any email of yours and Request download in HTML 
+2. Click on ≡**More** and go to **Settings**
+<img src="https://c.l3n.co/i/zPfrec.jpeg" alt="Description of image" style="width:40%;" />
 
-<img src="https://i3.lensdump.com/i/T8Ov0a.png" alt="RmRqNT.png" border="0" />
+3. Now go to the **Your information and permissions** tab and select **Download your information**
+<img src="https://a.l3n.co/i/zPftyK.jpeg" alt="Description of image" style="width:40%;" />
 
-You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step. If you have a lot of data, sometimes Instagram breaks it into parts. My following and followers folder was in part 1 so only download that.
+4. Click on **Download or transfer information**
+
+<img src="https://c.l3n.co/i/zPfT7P.jpeg" alt="Description of image" style="width:40%;" />
+
+5. Select **Some of your information**
+
+<img src="https://b.l3n.co/i/zPfEUm.jpeg" alt="Description of image" style="width:40%;" />
+
+6. Scroll all the way down and select **Followers and following**
+
+<img src="https://a.l3n.co/i/zPfJu9.jpeg" alt="Description of image" style="width:40%;" />
+
+7. Now select **Download to device**
+
+<img src="https://c.l3n.co/i/zPfVA2.jpeg" alt="Description of image" style="width:40%;" />
+
+8. This step is **IMPORTANT!!** Go to **Date Range** and set it to **All time**
+
+<p align="center">
+  <img src="https://b.l3n.co/i/zPfdnC.jpeg" alt="Image 1" style="width:40%; margin-right: 10px;" />
+  <img src="https://a.l3n.co/i/zPfqy5.jpeg" alt="Image 2" style="width:45%;" />
+</p>
+
+9. You can now request for your data.
+
+You should get a mail within a few minutes with a link to download your Instagram data. Download it and go to the next step. If you have a lot of data, sometimes Instagram breaks it into parts. My following and followers folder was in part 1 so only download that.
 
 ### Running the Program
 
