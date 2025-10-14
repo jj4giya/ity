@@ -1,3 +1,14 @@
+> ⚠️ **IMPORTANT NOTICE — PROJECT NO LONGER SUPPORTED**  
+> 
+> As of **October 2025**, this desktop version of the *Instagram Unfollower Tracker* is **no longer actively maintained or supported**.  
+> I will **not be providing technical assistance or updates** for this version anymore.  
+> 
+> 🚀 A **new web-based version** is currently in development, which will make everything faster and easier!  
+> 
+> Stay tuned on my [Linktree](https://www.linktr.ee/jj4giya) for updates.
+
+---
+
 <center>
     <p align="center"><a href="https://www.instagram.com/jj4giya"><img src="https://b.l3n.co/i/RCTRLK.png" border="0" width="250" /></a></p>
     <h3 align="center">A software that helps you find out who is not following you back on Instagram.<br>NO LOGIN BULLSHIT NEEDED!!</br></h3>
